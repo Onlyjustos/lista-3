@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746313251 source:d:\programacao\codeblocks\estudo\lista-3-ip\led[4]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
